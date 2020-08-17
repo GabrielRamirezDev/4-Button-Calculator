@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(../images/calc.jpg);
+  background-size: cover;
+}
+.h1{
+  font-size: 1.1rem;
+  font-family: monospace;
+}
+.mainSec{
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 20px;
+}
+
+.red{
+  color: rgb(218,89,108);
+}
+
+.blue{
+  color: rgb(88,166,231);
+}
+
+.operators{
+  margin-top: 3px;
+  margin-left: 23px;
+
+}
+.kindness{
+  border: 2px solid black;
+  border-radius: 35px;
+  border-color: rgb(254,111,109);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  text-align: center;
+  font-size: .7rem;
+  width: 80px;
+}
